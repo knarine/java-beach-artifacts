@@ -3,10 +3,12 @@
   <groupId>com.javahash.web</groupId>
   <artifactId>Spring4MVCHelloWorld</artifactId>
   <versioning>
-    <release>13</release>
+    <release>82</release>
     <versions>
-      <version>13</version>
+      <version>V-3</version>
+      <version>2</version>
+      <version>82</version>
     </versions>
-    <lastUpdated>20140611162852</lastUpdated>
+    <lastUpdated>20140611163141</lastUpdated>
   </versioning>
 </metadata>
